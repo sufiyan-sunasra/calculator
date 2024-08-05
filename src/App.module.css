@@ -1,0 +1,9 @@
+.calculator{
+    border: 1px solid gray;
+    width: 200px;
+    border-radius: 5px;
+    margin-top: 50px;
+    /* margin-left: 200px; */
+    height: 390px;
+}
+
