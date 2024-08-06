@@ -1,3 +1,3 @@
 # React + Vite
 
-basic calculator app to use react
+Calculator-App is built using ReactJS
